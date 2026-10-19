@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">habit-garden</string>
+    <string name="title_activity_main">habit-garden</string>
+    <string name="package_name">com.habitgarden.app</string>
+    <string name="custom_url_scheme">com.habitgarden.app</string>
+</resources>
